@@ -1,0 +1,10 @@
+<suite name="Suite">
+  <test name="Regression">
+	  <classes>
+		 
+		 <class name="testNG.Test5"/>
+		
+		 >
+	 </classes> 
+	  </test>
+	  </suite>

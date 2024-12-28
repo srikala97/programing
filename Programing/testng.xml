@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ContactPageSuite">
+    <test name="ContactPageTest">
+        <classes>
+            <class name="com.example.ContactPageTest" />
+        </classes>
+    </test>
+</suite>
+
